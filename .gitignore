@@ -1,7 +1,7 @@
-LibriSpeech/ 
 .ipynb_checkpoints/
-.DS_Store
+LibriSpeech/ 
 __pycache__/
+venv/
 *.tar.gz
 *.pyc
 *.json
